@@ -1,4 +1,5 @@
-## Hi there 👋
+## 👋 Hi there 
+I'm Maddy! I'm a current Computer Science major and Cybersecurity minor at Plymouth State University.
 
 <!--
 **maaaddy/maaaddy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
