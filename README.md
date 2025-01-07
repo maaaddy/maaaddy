@@ -16,8 +16,8 @@ I'm Maddy! I'm a current Computer Science major and Cybersecurity minor at Plymo
     Take a look at the [articles](https://www.linkedin.com/in/madison-conway-88aa84236/recent-activity/articles/) I've written to inform others on CS topics!
 
 ## 💬 Let's Connect!
-- **[LinkedIn](https://www.linkedin.com/in/madison-conway-88aa84236/)**
 - **[Projects](https://www.linkedin.com/in/madison-conway-88aa84236/details/projects/)**: Check out my projects on my LinkedIn for a more, in-depth tour!
+- **[LinkedIn](https://www.linkedin.com/in/madison-conway-88aa84236/)**
 
 
 <!--
