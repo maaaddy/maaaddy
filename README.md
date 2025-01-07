@@ -1,7 +1,7 @@
 ## 👋 Hi, there 
 I'm Maddy! I'm a current Computer Science major and Cybersecurity minor at Plymouth State University. Aside from that, I'm a passionate **problem-solver** and exploring the **software engineering** world. I love to learn new things!
 
-### 🛠️ Technologies I've Used
+## 🛠️ Technologies I've Used
 - **Languages**: JavaScript, Python, Elixir, C/C++, HTML, Java, TypeScript. 
 - **Frameworks**: React, Phoenix, CSS, Tailwind CSS.
 - **Everything Else**: Git, Node.js, Express.js, Nginx.
