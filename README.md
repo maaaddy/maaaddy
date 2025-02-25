@@ -8,11 +8,10 @@ I'm Maddy! I'm a current Computer Science major and Cybersecurity minor at Plymo
 
 ## 🌟 Projects!
 - **[Gregslist](https://github.com/maaaddy/gregslist)**: A web-app for users to buy, sell/list, and chat in real-time. Made with a team.
-- **[WeatherApp](https://github.com/maaaddy/weather-app)**: My first independent project using APIs and a database - an experimental web-app.
+- **[ToDo](https://github.com/maaaddy/todo)**: My "To do" list project. 
 
 ## 🔭 What I'm Working On
 - **[WhiskAway](https://whiskaway.food)**: My ongoing solo-project.
-- **[ToDo](https://github.com/maaaddy/todo)**: My current "To do" list project. 
 - **Teaching Others**:
     Take a look at the [articles](https://www.linkedin.com/in/madison-conway-88aa84236/recent-activity/articles/) I've written to inform others on CS topics!
 
