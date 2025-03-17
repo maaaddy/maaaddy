@@ -8,6 +8,7 @@ I'm Maddy! I'm a current Computer Science major and Cybersecurity minor at Plymo
 
 ## 🌟 Projects!
 - **[Gregslist](https://github.com/maaaddy/gregslist)**: A web-app for users to buy, sell/list, and chat in real-time. Made with a team.
+    You can find it hosted **[here](https://randomretail.shop)**
 - **[ToDo](https://github.com/maaaddy/todo)**: My "To do" list project. 
 
 ## 🔭 What I'm Working On
