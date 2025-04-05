@@ -2,8 +2,8 @@
 I'm Maddy! I'm a current Computer Science major and Cybersecurity minor at Plymouth State University. Aside from that, I'm a passionate **problem-solver** and exploring the **software engineering** world. I love to learn new things!
 
 ## 🛠️ Technologies I've Used
-- **Languages**: JavaScript, Python, Elixir, C/C++, HTML, Java, TypeScript. 
-- **Frameworks**: React, Phoenix, CSS, Tailwind CSS.
+- **Languages**: JavaScript, Python, Elixir, C/C++, HTML, Java, TypeScript, Dart. 
+- **Frameworks**: React, Phoenix, CSS, Tailwind CSS, Flutter.
 - **Everything Else**: Git, Node.js, Express.js, Nginx.
 
 ## 🌟 Projects!
@@ -12,12 +12,15 @@ I'm Maddy! I'm a current Computer Science major and Cybersecurity minor at Plymo
 - **[ToDo](https://github.com/maaaddy/todo)**: My "To do" list project. 
 
 ## 🔭 What I'm Working On
-- **[WhiskAway](https://whiskaway.food)**: My ongoing solo-project.
+- **[WhiskAway](https://github.com/maaaddy/whiskaway2)**: My ongoing solo-project.
+   You can find it hosted **[here](https://whiskaway.food)**
 - **Teaching Others**:
     Take a look at the [articles](https://www.linkedin.com/in/madison-conway-88aa84236/recent-activity/articles/) I've written to inform others on CS topics!
+- **Android Apps**:
+    I'm currently learning how to make apps for Android using Dart and Flutter. 
 
 ## 💬 Let's Connect!
-- **[Projects](https://www.linkedin.com/in/madison-conway-88aa84236/details/projects/)**: Check out my projects on my LinkedIn for a more, in-depth tour!
+- **[Projects](https://www.linkedin.com/in/madison-conway-88aa84236/details/projects/)**: Check out my projects on my LinkedIn for a more in-depth tour!
 - **[LinkedIn](https://www.linkedin.com/in/madison-conway-88aa84236/)**
 
 
