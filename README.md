@@ -1,5 +1,5 @@
 ## 👋 Hi, there 
-I'm Maddy! I'm a current Computer Science major and Cybersecurity minor at Plymouth State University. Aside from that, I'm a passionate **problem-solver** and exploring the **software engineering** world. I love to learn new things!
+I'm Maddy! I have a Bachelors of Science in Computer Science, and a minor in Cybersecurity from Plymouth State University. Aside from that, I'm a passionate **problem-solver** and exploring the **software engineering** world. I love to learn new things!
 
 ## 🛠️ Technologies I've Used
 - **Languages**: JavaScript, Python, Elixir, C/C++, HTML, Java, TypeScript, Dart. 
@@ -12,7 +12,7 @@ I'm Maddy! I'm a current Computer Science major and Cybersecurity minor at Plymo
 - **[ToDo](https://github.com/maaaddy/todo)**: My "To do" list project. 
 
 ## 🔭 What I'm Working On
-- **[WhiskAway](https://github.com/maaaddy/whiskaway2)**: My ongoing solo-project.
+- **[WhiskAway](https://github.com/maaaddy/whiskaway2)**: My recipe finding and sharing solo-project.
    You can find it hosted **[here](https://whiskaway.food)**
 - **Teaching Others**:
     Take a look at the [articles](https://www.linkedin.com/in/madison-conway-88aa84236/recent-activity/articles/) I've written to inform others on CS topics!
