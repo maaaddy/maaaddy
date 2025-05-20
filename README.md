@@ -4,7 +4,7 @@ I'm Maddy! I have a Bachelors of Science in Computer Science, and a minor in Cyb
 ## 🛠️ Technologies I've Used
 - **Languages**: JavaScript, Python, Elixir, C/C++, HTML, Java, TypeScript, Dart. 
 - **Frameworks**: React, Phoenix, CSS, Tailwind CSS, Flutter.
-- **Everything Else**: Git, Node.js, Express.js, Nginx.
+- **Everything Else**: Git, Node.js, Express.js, Nginx, RESTful APIs.
 
 ## 🌟 Projects!
 - **[Gregslist](https://github.com/maaaddy/gregslist)**: A web-app for users to buy, sell/list, and chat in real-time. Made with a team.
